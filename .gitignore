@@ -1,0 +1,8 @@
+/temp-results
+/Report
+/node_modules
+/.vscode
+/ErrorShots
+/allure-results
+/.nyc_output/
+/coverage

@@ -1,0 +1,19 @@
+{
+  "name": "yue",
+  "version": "1.0.7",
+  "description": "",
+  "main": "index.js",
+  "types": "./index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "image-type": "^4.1.0",
+    "opencv": "^6.2.0",
+    "robotjs": "^0.5.1",
+    "screenshot-desktop": "^1.9.0",
+    "sharp": "^0.23.0"
+  }
+}
