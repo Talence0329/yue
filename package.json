@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "handlebars": "^4.7.2",
     "image-type": "^4.1.0",
     "opencv": "^6.2.0",
     "robotjs": "^0.5.1",
