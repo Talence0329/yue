@@ -15,6 +15,6 @@
     "opencv": "^6.2.0",
     "robotjs": "^0.5.1",
     "screenshot-desktop": "^1.9.0",
-    "sharp": "^0.23.0"
+    "sharp": "^0.30.5"
   }
 }
